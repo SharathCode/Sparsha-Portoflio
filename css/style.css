@@ -249,6 +249,14 @@ section{
     padding-bottom: 30px;
 }
 
+.project .row{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+
+
 
 /*Contact*/
 
